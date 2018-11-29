@@ -31,7 +31,7 @@ body {
     flex-direction: row;
 }
 
-section#sheets {
+section#sheet {
     flex: 3 1 301px;
 }
 
@@ -76,19 +76,19 @@ article {
         flex: 1 1 auto;
     }
 
-    .size1 {
+    section img.size1 {
         width: 100%;
     }
 
-    .size2 {
+    section img.size2 {
         width: 60%;
     }
 
-    .size3 {
+    section img.size3 {
         width: 40%;
     }
 
-    .size4 {
+    section img.size4 {
         width: 30%;
     }
 }

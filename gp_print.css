@@ -17,11 +17,30 @@
 
 
 /* Hidden Objects */
-
-
-
-
-
-
+nav,
+footer,
+article {
+    display: none;
+}
 
 /* Comic Book Sheet Styles */
+section#sheet {
+    width: 6in;
+    margin: 0in auto;
+}
+
+section img.size1 {
+    width: 5in;
+}
+
+section img.size2 {
+    width: 3in;
+}
+
+section img.size3 {
+    width: 2in;
+}
+
+section img.size4 {
+    width: 1.5in;
+}
